@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values-night/colors.xml -->
+<resources>
+    <color name="primary">#64A8FF</color>
+    <color name="tertiary">#2CD4D4</color>
+    <color name="on_primary">#003166</color>
+    <color name="primary_container">#1A3B66</color>
+    <color name="surface">#121212</color>
+    <color name="surface_variant">#24272C</color>
+    <color name="divider">#383E45</color>
+    <color name="muted">#9AA4B0</color>
+</resources>
